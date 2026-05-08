@@ -56,17 +56,25 @@ This project was fully designed and developed by me.
 
 ##👍 Work Done
 Designed complete frontend interface
+
 Created responsive layouts using HTML & CSS
+
 Added animations and modern UI
+
 Developed interactive sections using JavaScript
+
 Managed overall website structure and styling
 
 ---
 
 ## 🚀Future Improvements
 AI Chatbot Integration
+
 Student Login System
+
 Online Admission Feature
+
 Dark Mode Support
+
 
 
